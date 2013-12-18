@@ -29,5 +29,3 @@ sum(table(drug12q4$drugname[Yaz12q4]))
 [25] "aers_ascii_2011q3" "aers_ascii_2011q4" "aers_ascii_2012q1"
 [28] "aers_ascii_2012q2" "aers_ascii_2012q3" "aers_ascii_2012q4"
 [31] "faersq.Rproj"
-
-#
